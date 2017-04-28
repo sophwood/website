@@ -78,6 +78,10 @@ span {
     width: 100%;
 }
 
+.fixFont {
+    font: 0.6em "Helvetica", "Arial";
+}
+
 .orangeButton {
     position: absolute;
 }
