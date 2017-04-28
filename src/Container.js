@@ -9,7 +9,7 @@ export default class Container extends Component {
 
       <br/>
 
-      <h3>Learning the CROP method for solving a Rubix cube</h3>
+      <h3>Learning the CFOP method for solving a Rubix cube</h3>
       <img className="displayed" src="resources/rubix_cube.png" alt="rubix cube"
            style={{"width": "90%", "height": "30%", "border": 0}}/>
 
