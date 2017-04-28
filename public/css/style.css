@@ -1,0 +1,175 @@
+h1 {
+    font: 5em "Helvetica", "Arial";
+    text-align: center;
+    display: block;
+    color: white;
+    background-image: url("../resources/b1.jpg");
+    padding: 0;
+    margin: 0;
+}
+
+h2 {
+    font: 3em "Helvetica", "Arial";
+    text-align: center;
+    color: white;
+    background-image: url("../resources/b2.jpg");
+    margin: 0;
+    padding: 0;
+}
+
+h3 {
+    font: 2em "Helvetica", "Arial";
+    text-align: center;
+    color: black;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    font-family: 'PT Sans', sans-serif;
+    transition: all 0.4s ease;
+    top: 0;
+}
+
+footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    background-color: lightblue;
+    font: .5em "Helvetica", "Arial";
+    text-align: center;
+    color: black;
+    margin-top: 0;
+    padding-bottom: 3px;
+}
+
+.footer {
+    font: .75em "Helvetica", "Arial";
+    text-align: center;
+    color: black;
+    margin: 0 auto;
+    padding: 0;
+}
+
+table {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.floatCenter {
+    position: relative;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.image {
+    position: relative;
+}
+
+span {
+    font: 1.2em "Helvetica", "Arial";
+    color: white;
+    font-weight: bold;
+    top: 22px;
+    left: 0;
+    width: 100%;
+}
+
+.orangeButton {
+    position: absolute;
+}
+
+p {
+    font: 1em "Helvetica", "Arial";
+    text-align: center;
+    color: black;
+    margin: 0;
+    padding: 0;
+}
+
+text {
+    font: .75em "Helvetica", "Arial";
+    text-align: center;
+    color: black;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: lightblue;
+}
+
+#nav {
+    font: 1.5em "Baron", "Arial";
+    text-align: center;
+    display: block;
+}
+
+form {
+    text-align: center;
+}
+
+a {
+    font: 2em "Helvetica";
+    text-align: center;
+    display: block;
+    margin: auto;
+    text-decoration: none;
+    padding: 0;
+    color: #4286f4;
+}
+
+a:visited {
+    color: #4286f4;
+    margin: auto;
+}
+
+a:hover {
+    color: blue;
+    text-decoration: underline;
+}
+
+b {
+    font: 1.5em "Helvetica";
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    padding: 0;
+}
+
+b:visited {
+    color: blue;
+    margin: auto;
+}
+
+.widgets {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+b:hover {
+    text-decoration: underline;
+}
+
+img.displayed {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+img.homeButton {
+    display: inline-block;
+    *display: inline;
+}
+
+hr {
+    background-color: black;
+    border-color: black;
+    color: black;
+    height: 1px;
+    border: 0;
+    width: 40%;
+}
